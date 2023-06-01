@@ -5,7 +5,7 @@ import Send from "../../icons/Send.svg";
 import FilePopup from "../FilePopup/FilePopup";
 
 const Input = () => {
-  const [showFilePopup, setShowFilePopup] = useState(true);
+  const [showFilePopup, setShowFilePopup] = useState(false);
 
   return (
     <div className="input-block">
