@@ -1,4 +1,3 @@
-import React from 'react'
 import './Header.css'
 import Back from '../../icons/Back.svg'
 import Edit from '../../icons/Edit.svg'

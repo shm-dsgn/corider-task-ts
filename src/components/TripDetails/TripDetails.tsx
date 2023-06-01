@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./TripDetails.css";
 import Menu from "../../icons/Menu.svg";
 import MenuPopup from "../MenuPopup/MenuPopup";
